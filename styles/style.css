@@ -237,7 +237,7 @@
 .table__heading_theme_dark{
 	margin: 0px 0px 20px 0px;
 }
-.kaufman-triangle{
+.kaufman__triangle{
 	width: 877px;
 	height: 877px;
 	background-image: url(../images/kaufman-triangle.svg);
@@ -276,7 +276,7 @@
 	background-image: url(../images/logo_place_footer.svg);
 }
 .footer__author {
-	margin: 18px 0px 0px 0px;
+	margin: 18px 0px 18px 0px;
 	line-height: 25px;
 	font-size: 18px;
 	font-weight: normal;
