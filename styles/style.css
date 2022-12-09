@@ -276,7 +276,7 @@
 	background-image: url(../images/logo_place_footer.svg);
 }
 .footer__author {
-	margin: 18px 0px 18px 0px;
+	margin: 18px 0px;
 	line-height: 25px;
 	font-size: 18px;
 	font-weight: normal;
