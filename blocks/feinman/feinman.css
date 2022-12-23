@@ -1,7 +1,3 @@
-@import url('../feinman/__title/feinman__title.css');
-@import url('../feinman/__subtitle/feinman__subtitle.css');
-@import url('../feinman/__link/feinman__link.css');
-
 .feynman {
 	background-image: url(/images/feinman/feynman.png);
 	background-repeat: no-repeat;
