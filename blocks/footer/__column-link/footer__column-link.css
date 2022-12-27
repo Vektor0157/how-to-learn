@@ -5,3 +5,7 @@
 	text-decoration: none;
 	color: #fff;
 }
+.footer__column-link:hover{
+	opacity: 0.5;
+	transition: all 0.5s;
+}
